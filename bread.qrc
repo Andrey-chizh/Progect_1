@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="bread">
+    <file>bread1.jpg</file>
+    <file>bread2.jpg</file>
+    <file>bread3.jpg</file>
+    <file>bread4.jpg</file>
+    <file>bread5.jpg</file>
+    <file>bread6.jpg</file>
+  </qresource>
+</RCC>
